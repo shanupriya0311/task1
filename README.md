@@ -29,12 +29,6 @@ It uses **HTML5** and **CSS3** with smooth navigation and responsive design for 
 
 ---
 
-## 📸 Preview
-### 🏠 Homepage
-![Home Preview](https://images.unsplash.com/photo-1509099836639-18ba1795216d?auto=format&fit=crop&w=1600&q=80)
-
----
-
 ## 🚀 How to Run the Project
 
 1. **Clone the repository**
